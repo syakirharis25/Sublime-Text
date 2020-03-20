@@ -15,6 +15,7 @@ Sublime Text is a shareware cross-platform source code editor with a Python appl
 <a name="references"></a>
 ## 2. Official references websites. 
 Sublime Text official website : https://www.sublimetext.com <br />
+The Sublime Text package manager : https://packagecontrol.io <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
