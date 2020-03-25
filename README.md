@@ -30,11 +30,11 @@ The Sublime Text package manager : https://packagecontrol.io <br />
 **_Sublime Text folder management_**  <br />
 **[ Ctrl ]** + **[ O ]** : open new folder  <br />
 
-**_Sublime Text window management_**
+**_Sublime Text window management_** <br />
 **[ Shift ]** + **[ Ctrl ]** + **[ N ]** : open new window  <br />
 **[ Shift ]** + **[ Ctrl ]** + **[ W ]** : close window  <br />
 
-**_Sublime Text layout view management_**
+**_Sublime Text layout view management_** <br />
 **[ Shift ]** + **[ Alt ]** + **[ 1 ]** : single (1) view  <br />
 
 **[ Shift ]** + **[ Alt ]** + **[ 2 ]** : double (2) view columns  <br />
